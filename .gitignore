@@ -1,0 +1,10 @@
+# 不提交游戏私有文件/个人存档
+tools/
+device/
+*.so
+*.dat
+rs/
+shots/
+# Python
+__pycache__/
+*.pyc
